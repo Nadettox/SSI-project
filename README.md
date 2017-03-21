@@ -16,3 +16,8 @@ This application works under python3
 2) How to launch ?
 	
 	- python3 main.py
+
+Update March 21th 2017 :
+	AES cipher done
+	Adding credentials in db done
+	Encryption/Decryption done
